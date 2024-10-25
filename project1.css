@@ -2,7 +2,7 @@
     body {
         background-color: #000000;
         font-family: 'Arial', sans-serif;
-        /* background: url(assets/waves.svg); */
+        background: url('assets/waves.svg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
